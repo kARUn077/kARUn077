@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 Hi there! I'm Kirtan Poddar
 
-<!--
-**kARUn077/kARUn077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pre-final year B.Tech student (ECE)  
+💻 Passionate about Web Development, Competitive Programming & Open Source  
+🚀 Currently building full-stack apps and solving algorithmic challenges
 
-Here are some ideas to get you started:
+I enjoy solving algorithmic problems and participating in contests.  
+Strong grasp on Data Structures and Algorithms, and constantly improving through practice.  
+Solving problems helps me enhance my logical thinking and code efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- 💻 Languages: `C++`, `JavaScript`, `Python`
+- 🌐 Web: `Node.js`, `React.js`, `Express.js`, `MongoDB`
+- ☁️ Tools & Platforms: `Firebase`, `Git`, `VS Code`, `Postman`
+- 📦 Package Managers: `npm`, `yarn`
+- ⚙️ Others: `JWT`, `REST APIs`, `Mongoose`
+
+---
+
+### 📈 GitHub Stats
+![Kirtan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kARUn077&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kARUn077&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/karun-poddar-515b23264/)
+- ✉️ Email: your.email@example.com
+
+---
+
+### ⚡ Fun Facts
+- 💬 Ask me about DSA, MERN stack, or digital electronics
+- 🧠 Constantly learning new tech and improving problem-solving skills
+
