@@ -1,9 +1,10 @@
 ## 👋 Hi there! I'm Karun Poddar
 
-🎓 Pre-final year B.Tech student (ECE)  
+🎓 Final year B.Tech student (ECE)  
 💻 Passionate about Web Development, Competitive Programming & Open Source  
 🚀 Currently building full-stack apps and solving algorithmic challenges
 
+### 💻 Competitive Programming
 I enjoy solving algorithmic problems and participating in contests.  
 Strong grasp on Data Structures and Algorithms, and constantly improving through practice.  
 Solving problems helps me enhance my logical thinking and code efficiency.
@@ -27,7 +28,7 @@ Solving problems helps me enhance my logical thinking and code efficiency.
 
 ### 📫 Let's Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/karun-poddar-515b23264/)
-- ✉️ Email: your.email@example.com
+- ✉️ Email: karunpoddar0@gmail.com
 
 ---
 
