@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Kirtan Poddar
+## 👋 Hi there! I'm Karun Poddar
 
 🎓 Pre-final year B.Tech student (ECE)  
 💻 Passionate about Web Development, Competitive Programming & Open Source  
