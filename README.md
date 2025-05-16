@@ -33,6 +33,6 @@ Solving problems helps me enhance my logical thinking and code efficiency.
 ---
 
 ### ⚡ Fun Facts
-- 💬 Ask me about DSA, MERN stack, or digital electronics
+- 💬 Ask me about DSA, MERN stack
 - 🧠 Constantly learning new tech and improving problem-solving skills
 
