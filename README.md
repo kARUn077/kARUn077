@@ -14,7 +14,7 @@ Solving problems helps me enhance my logical thinking and code efficiency.
 ### 🛠️ Tech Stack
 - 💻 Languages: `C++`, `JavaScript`, `Python`
 - 🌐 Web: `Node.js`, `React.js`, `Express.js`, `MongoDB`
-- ☁️ Tools & Platforms: `Firebase`, `Git`, `VS Code`, `Postman`
+- ☁️ Tools & Platforms: `Git`, `VS Code`, `Postman`
 - 📦 Package Managers: `npm`, `yarn`
 - ⚙️ Others: `JWT`, `REST APIs`, `Mongoose`
 
