@@ -12,10 +12,10 @@ Solving problems helps me enhance my logical thinking and code efficiency.
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Languages: `C++`, `JavaScript`, `Python`
+- 💻 Languages: `C++`, `JavaScript`
 - 🌐 Web: `Node.js`, `React.js`, `Express.js`, `MongoDB`
 - ☁️ Tools & Platforms: `Git`, `VS Code`, `Postman`
-- 📦 Package Managers: `npm`, `yarn`
+- 📦 Package Managers: `npm`
 - ⚙️ Others: `JWT`, `REST APIs`, `Mongoose`
 
 ---
