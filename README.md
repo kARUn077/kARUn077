@@ -52,7 +52,7 @@
   </a>
 </p>
 
-[![Karun's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kARUn077&theme=react-dark)](https://github.com/kARUn077)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kARUn077&theme=github-compact)](https://github.com/kARUn077)
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kARUn077&show_icons=true&theme=radical" alt="karun-stats" />
